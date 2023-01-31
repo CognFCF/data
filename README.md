@@ -1,7 +1,7 @@
 # Paper Data
 This repository is used to store all data related to the paper "A Cognitive Framework for Modeling Coincident Defects in N-version Programming", including user-submitted programs, complete defect frequency tables and Online Judge test cases.
 
-All programs are in the directory 'CodeSet' and are named in the format of student number plus version number, for example, P1V1 represents the first version of the first student.
+All programs are in the directory 'Code-Set' and are named in the format of student number plus version number, for example, P1V1 represents the first version of the first student.
 
 The complete Defect Frequency table is saved in the file 'Defect-Frequency.xlsx'.
 
